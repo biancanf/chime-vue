@@ -15,6 +15,7 @@
     "dataframe-js": "^1.4.3",
     "material-icons": "^0.3.1",
     "vue": "^2.6.11",
+    "vue-apexcharts": "^1.5.2",
     "vue-sidebar-menu": "^4.5.3",
     "vuesax": "^3.11.13"
   },
